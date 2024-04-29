@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: url("../images/background.png") center/cover fixed no-repeat;
+}
+
+.todo-container {
+  background-color: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=custom.css.map */
