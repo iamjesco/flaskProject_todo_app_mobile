@@ -3,6 +3,17 @@
 This is a simple todo application built with Flask, Flask-SQLAlchemy, Bootstrap, and JavaScript.
 Originally I was going to make an Api with Flask and use a React frontend, but I wanted to see how
 well using just Flask/jinja would work. And i'm pretty pleased with the result. Kept it as simple as possible.
+
+## Tech used
+
+![](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask) 
+![](https://img.shields.io/static/v1?label=&message=Jinja&color=000000&logo=jinja)
+![](https://img.shields.io/static/v1?label=&message=Python&color=000000&logo=python) 
+![](https://img.shields.io/static/v1?label=&message=Bootstrap&color=000000&logo=bootstrap) 
+![](https://img.shields.io/static/v1?label=&message=Sass&color=000000&logo=sass) 
+![](https://img.shields.io/static/v1?label=&message=Javascript&color=000000&logo=javascript)
+![](https://img.shields.io/static/v1?label=&message=SQLite3&color=000000&logo=sqlite)
+
 ## Features
 
 - Add new todo items
@@ -72,6 +83,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 * Create a proper layout
 * Implement some basic animations
+* Datepicker
+* Statistics
 * Check what other features could be added (nice to haves)
 
 
